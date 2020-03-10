@@ -2,7 +2,7 @@ import multiprocessing
 import numpy as np
 
 sequenceTarget = 3
-printTarget = 100000
+printTarget = 200000
 runLinearFlag = False
 runWorkerFlag = True
 
